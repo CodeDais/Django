@@ -61,3 +61,8 @@ Step 7: Start developement server and send HTTP Request
 	http://127.0.0.1:8000/wish/
 	http://127.0.0.1:8000/wish_me/
 	http://127.0.0.1:8000/thank_you/	
+
+
+*********************************
+© Code Dais. All Rights Reserved.
+*********************************

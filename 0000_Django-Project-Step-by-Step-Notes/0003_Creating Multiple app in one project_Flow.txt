@@ -87,7 +87,9 @@ Step 6: Start Developement Server and send HTTP request.
 	http://127.0.0.1:8000/fees/
 	http://127.0.0.1:8000/courses/
 
-
+*********************************
+© Code Dais. All Rights Reserved.
+*********************************
 
 
 
