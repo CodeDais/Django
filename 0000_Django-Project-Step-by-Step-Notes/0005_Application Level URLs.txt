@@ -109,6 +109,10 @@ Step 9: Start developement server and send HTTP request
 	http://127.0.0.1:8000/TechNewsApp/tech_news/
 
 
+*********************************
+© Code Dais. All Rights Reserved.
+*********************************
+
 
 
 
